@@ -1,0 +1,2 @@
+export const UPDATE_OBJECT = 'UPDATE_OBJECT';
+export const UPDATE_REDIRECT = 'UPDATE_REDIRECT';
